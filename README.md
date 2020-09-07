@@ -5,4 +5,4 @@ from the previous module. This is by design; in the event that your files are so
 it will help you in at least starting fresh on the next module.
 You will do your work in the Start folder; it should match very closely to the contents of the Done folder when you are done.
 
-NOTE: You may notice that we are starting with the Done folder from the HTML course as our starting point for the CSS course. This is by design; The site was structurally sound, but ugly as can be. We will fix that in this course.
+NOTE: You may notice that we are starting with the Done folder from the HTML course as our starting point for the CSS course. This is by design; the site was structurally sound, but ugly as can be. We will fix that in this course.
